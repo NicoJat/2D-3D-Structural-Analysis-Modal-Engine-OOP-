@@ -54,4 +54,4 @@ This repository serves as a technical showcase. The execution scripts (`.py`) an
 > **Note on Intellectual Property:** The core OOP source files containing the matrix assembly logic and solver iterations are kept private as they are part of my premium educational courses.
 
 ---
-*Developed by Nicolás [Tu Apellido] - Civil & Structural Engineer*
+*Developed by Nicolás Játiva - Civil & Structural Engineer*
