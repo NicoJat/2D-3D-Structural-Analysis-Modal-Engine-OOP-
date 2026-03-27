@@ -25,19 +25,19 @@ The engine automatically renders the structural response. Below are examples gen
 #### 1. 3D Frame Deformation & Internal Forces
 *A complete 3D spatial frame subjected to gravity and lateral loads.*
 
-![3D Deformed Shape](3d_deformada.png)
+![3D Deformed Shape](Portico_3D/3d_deformada.png)
 *(Left: Original structure | Right: 3D Deformed shape)*
 
-![Bending Moments](3d_momento_y.png)
+![Bending Moments](Portico_3D/3d_momento_y.png)
 *(Bending moment diagrams for spatial elements)*
 
 #### 2. 2D Frame & Truss Behavior
 *Examples of shear and moment diagrams for planar structures.*
 
-![Shear Diagram](diagrama%20cortante.png)
+![Shear Diagram](Portico_2D/diagrama%20cortante.png)
 *(Shear forces in a 2D continuous frame)*
 
-![Axial Truss](diagrama%20axial.png)
+![Axial Truss](Portico_2D/diagrama%20axial.png)
 *(Axial forces distribution in a planar truss)*
 
 ---
